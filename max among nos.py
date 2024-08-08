@@ -1,0 +1,5 @@
+a=int(input("a:"))
+b=int(input("b:"))
+c=int(input("c:"))
+x=max(a,b,c)
+print("maximum among the numbers is ",x)
